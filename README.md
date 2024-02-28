@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+-- 🔭 I’m Vasanthakumar.
+
+-- 🚀 Motivated and detail-oriented Full Stack Data Science enthusiast seeking a role in a dynamic organization to contribute to data-driven decision-making, with a specific focus on machine learning.
+
+-- 💬 Looking to collabrate on OpenSource projects.
+
+-- 📫 How to reach me: vasanthakumar1324@gmail.com
+
+-- 🌐 Personal website: https://vasangit.github.io/Portfolio/
+
+-- 🔆 Never Stop Improving.
+
 <!--
 **vasangit/vasangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
