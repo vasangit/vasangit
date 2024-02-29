@@ -8,7 +8,7 @@
 
 -- 📫 How to reach me: vasanthakumar1324@gmail.com
 
--- 🌐 Personal website: https://vasangit.github.io/Portfolio/
+-- 🌐 Personal website: https://vasangit.github.io/portfolio/
 
 -- 🔆 Never Stop Improving.
 
